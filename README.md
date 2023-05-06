@@ -2,5 +2,5 @@
 
 # one feature
 some feature description
-some other feature
+some other feature with fix
 more features
